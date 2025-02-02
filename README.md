@@ -1,7 +1,6 @@
 <html>
     <body>
         <head>
-            <title>Кошечки</title>
             <link rel="stylesheet" href="style.css">
         </head>
         <header>
